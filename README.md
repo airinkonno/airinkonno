@@ -3,7 +3,6 @@
 <!--
 **airinkonno/airinkonno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 I'm Airin. I'm excited on my journey to becoming a data analyst, and someday, a data scientist.
 
 * 🎓 Xccelerate Immersive Data Science and Machine Learning Bootcamp Student
